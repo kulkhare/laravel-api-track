@@ -4,6 +4,17 @@ Hello,
      - If you want me to do it in core PHP please let me know.
      - I have not used any package only laravel auth is used, API auth, token and middilware is used to complete the task.
 
+# Server Requirements
+    PHP: 7.1.3 or greater
+    PDO PHP extension
+    JSON PHP extension
+    OpenSSL PHP extension
+    Tokenizer PHP extension
+    XML PHP extension
+    Mbstring PHP extension
+    Ctype PHP extension
+    BCMath PHP extension
+
 # Steps to install project on local server
   1. Clone the project on server location.
   2. cd into the project directory.
