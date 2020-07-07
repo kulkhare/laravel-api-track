@@ -1,9 +1,6 @@
-# kulshreshth khare API Test
-Hello,
-     - I have completed the task in laravel.
-     - If you want me to do it in core PHP please let me know.
-     - I have not used any package only laravel auth is used, API auth, token and middilware is used to complete the task.
-
+# API Track
+  This laravel project can be used to track the API request made by consumers and show its logs to admin dashboard.
+  The API users is assigned with the API token when they signup.
 # Server Requirements
     PHP: 7.1.3 or greater
     PDO PHP extension
